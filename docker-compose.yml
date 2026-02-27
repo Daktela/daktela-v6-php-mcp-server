@@ -1,0 +1,18 @@
+services:
+  php:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8090:8080"
+    volumes:
+      - .:/app
+      - sessions:/app/var/sessions
+    working_dir: /app
+    environment:
+      - DAKTELA_URL=${DAKTELA_URL:-}
+      - DAKTELA_ACCESS_TOKEN=${DAKTELA_ACCESS_TOKEN:-}
+      - DAKTELA_USERNAME=${DAKTELA_USERNAME:-}
+      - DAKTELA_PASSWORD=${DAKTELA_PASSWORD:-}
+
+volumes:
+  sessions:

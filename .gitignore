@@ -1,0 +1,8 @@
+/vendor/
+/var/
+/.php-cs-fixer.cache
+composer.lock
+.phpunit.result.cache
+.env
+.mcp.json
+_reference/

@@ -1,0 +1,30 @@
+Daktela MCP Server License
+
+Copyright (c) 2026 Daktela a.s. All rights reserved.
+
+This software is the proprietary product of Daktela a.s. ("Daktela").
+
+Permission is hereby granted to any person or organization holding an active
+Daktela Contact Center license ("Licensee") to use, copy, and modify this
+software solely for the purpose of integrating with the Licensee's own Daktela
+instance.
+
+The following restrictions apply:
+
+1. This software may only be used in connection with a valid, active Daktela
+   Contact Center license. Use of this software without such a license is
+   strictly prohibited.
+
+2. Redistribution of this software, in original or modified form, is permitted
+   only if the above copyright notice, this permission notice, and all
+   restrictions are retained in full.
+
+3. This software may not be sold, sublicensed, or offered as part of a
+   competing product or service.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+DAKTELA BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
